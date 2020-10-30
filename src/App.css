@@ -1,0 +1,9 @@
+nav{
+    background-color: blueviolet;
+    padding: 10px;
+    font-size: 18px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
