@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-First U need to Run commond "npm install"
-        then u can run "npm start"
+
 In the project directory, you can run:
 
 ### `npm start`
