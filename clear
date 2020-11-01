@@ -1,0 +1,137 @@
+[33mcommit bbf4def33110eabbac4c9e4491c5e336a3eb34d6[m[33m ([m[1;36mHEAD -> [m[1;32mmy_branch[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: therajvikash <vchy63660@gmail.com>
+Date:   Sat Oct 31 08:47:14 2020 +0530
+
+    commited
+
+[33mcommit e2bc0f24859f2efe650064ad25ae41a5b87f765d[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:36:57 2020 +0530
+
+    Delete Project_Default.xml
+
+[33mcommit 7b718db9ffdc27dd6414644d8aac3db28dc4671d[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:36:42 2020 +0530
+
+    Delete misc.xml
+
+[33mcommit 7aee5e4461e41a1be668f271d36d4de75e248f1b[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:36:28 2020 +0530
+
+    Delete .gitignore
+
+[33mcommit 4610e99094422f8819ab8bd6781698cc4cc73455[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:36:04 2020 +0530
+
+    Delete codeStyleConfig.xml
+
+[33mcommit ace803f7f52e2c6ff224644dd18d2afb90c4ec75[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:35:47 2020 +0530
+
+    Delete modules.xml
+
+[33mcommit 5380686deb369a314312fa8d5b412b47de26db58[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:35:32 2020 +0530
+
+    Delete react-with-bootstrap.iml
+
+[33mcommit 93c30c489c610a7bcb837ed9fbae5226847d0704[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:34:50 2020 +0530
+
+    Delete logo192.png
+
+[33mcommit b10d8d5fde591e1f7a6b5c86724258966f529716[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:34:37 2020 +0530
+
+    Delete favicon.ico
+
+[33mcommit 74a11a1de9d4dffd4ba1ce6aed7c8843969bb1fa[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:34:01 2020 +0530
+
+    Delete App.test.js
+
+[33mcommit 350b067b6db0205f453d567591767757ce65180d[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:33:42 2020 +0530
+
+    Delete logo.svg
+
+[33mcommit aa027468fe6bcf957145fec85a53b0a3a1f369ec[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:33:23 2020 +0530
+
+    Delete card_4.jpg
+
+[33mcommit 637f9d161be3a7cf4457bc0dd656e54dc34d59ae[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:28:05 2020 +0530
+
+    Delete card_3.jpg
+
+[33mcommit 67ab98970cb576d3dd260223707289e1e9e74ad3[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:27:54 2020 +0530
+
+    Delete card_2.jpg
+
+[33mcommit 539d0681ad17a9f411bccc1b0e04a569eb74bea6[m
+Merge: 2de3539 f2d7375
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:26:55 2020 +0530
+
+    Merge pull request #2 from therajvikash/therajvikash-patch-1
+    
+    Delete card_1.jpg
+
+[33mcommit f2d737541dc42f8792af31a99b46eae93f5c4be8[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:26:24 2020 +0530
+
+    Delete card_1.jpg
+
+[33mcommit 2de353942997db29c68bf6669726e128567121cd[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:24:38 2020 +0530
+
+    Delete react_2.png
+
+[33mcommit f089dbd9f8cca03424d54bca79968546c4a83a71[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:24:15 2020 +0530
+
+    Delete react_1.png
+
+[33mcommit 4ee30aa705c72262e67b33a4630bfaf2ea75b345[m
+Merge: b0ea70e 230f25c
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:22:44 2020 +0530
+
+    Merge pull request #1 from therajvikash/therajvikash-patch-1
+    
+    Delete debug.log
+
+[33mcommit 230f25c37f5240fb151b0ad49b0978097558ec98[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 14:22:05 2020 +0530
+
+    Delete debug.log
+
+[33mcommit b0ea70e62dc5f7812e36a1dae91bbc6d6a3d1f1d[m
+Author: Vikash choudhary <vchy63660@gmail.com>
+Date:   Fri Oct 30 13:34:29 2020 +0530
+
+    Update README.md
+
+[33mcommit 891b9491ebeb5bdec5f6e56d91ec7969c7b5f587[m[33m ([m[1;31morigin/new_branch[m[33m)[m
+Author: therajvikash <vchy63660@gmail.com>
+Date:   Fri Oct 30 13:29:54 2020 +0530
+
+    OpenDesk First commit

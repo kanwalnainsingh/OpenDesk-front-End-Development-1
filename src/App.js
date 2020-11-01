@@ -4,7 +4,6 @@ import OrganisationHeader from "./components/organisation_onborading/organisatio
 import OrganisationBase from "./components/organisation_onborading/organisationBase/OrganisationBase";
 import OrganisationFooter from "./components/organisation_onborading/organisationFooter/OrganisationFooter";
 
-
 function App() {
   return (
     <div className="App">

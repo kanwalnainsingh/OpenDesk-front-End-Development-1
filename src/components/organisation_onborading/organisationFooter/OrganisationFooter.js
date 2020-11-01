@@ -1,10 +1,14 @@
 import React from 'react';
 import './OrganisationFooter.css'
+import SiteFloor from "./SiteFloor";
 
 const OrganisationFooter = () => {
     return (
         <React.Fragment>
+
             <section className="container mobile_screen_3">
+                <SiteFloor/>
+                
                 <div className="row border_top">
                     <div className="col">
                         <form className="p-2">
